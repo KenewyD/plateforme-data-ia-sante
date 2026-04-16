@@ -4,7 +4,7 @@
 
 ## 🚀 Démo en ligne
 
-👉 **[Accéder à la plateforme](LIEN_STREAMLIT_ICI)**
+👉 **[[Accéder à la plateforme](LIEN_STREAMLIT_ICI)](https://plateforme-data-ia-sante-kavh82qk8xx8h3nynatng4.streamlit.app/Conformite_RGPD)**
 
 ---
 
